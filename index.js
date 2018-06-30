@@ -18,5 +18,4 @@ function sayHiToGrandma(string){
 if (console.log('hello'.toLowerCase()) ==='hello'){
   return(`I can\'t hear you`)}
 
-sayHiToGrandma()
 }
