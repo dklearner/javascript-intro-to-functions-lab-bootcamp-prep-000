@@ -16,3 +16,4 @@ function logWhisper(string){
 
 var uppercase = "HELLO!"
 uppercase.toUpperCase() === uppercase 
+console.log()
